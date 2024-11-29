@@ -1,13 +1,9 @@
 {
-	"name": "le-o/components",
-	"description": "Components for yii 2",
-	"require": {
-		"webvimark/image": "^1.0.0",
-		"webvimark/helpers": "^1.0.0"
-	},
+	"name": "le-o/simplecaldav",
+	"description": "A simple php CalDAV-Client library",
 	"autoload": {
 		"psr-4": {
-			"leo\\components\\": ""
+			"leo\\simplecaldav\\": ""
 		}
 	}
 }
